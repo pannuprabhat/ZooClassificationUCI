@@ -1,0 +1,24 @@
+# Model Name : K-NEAREST NEIGHBOURS
+Animal Name, (1)Mammal,   (2)Bird,(3)Reptile,   (4)Fish,(5)Amphibia,    (6)Bug,(7)Inverteb, Req_Class,Predicted_C
+      hawk,         0,       100,         0,         0,         0,         0,         0,         2,         2
+      frog,         0,         0,        60,         0,        40,         0,         0,         5,         3
+   skimmer,         0,       100,         0,         0,         0,         0,         0,         2,         2
+      vole,       100,         0,         0,         0,         0,         0,         0,         1,         1
+      mole,       100,         0,         0,         0,         0,         0,         0,         1,         1
+  crayfish,         0,         0,         0,         0,         0,         0,       100,         7,         7
+   vampire,       100,         0,         0,         0,         0,         0,         0,         1,         1
+      rhea,         0,       100,         0,         0,         0,         0,         0,         2,         2
+  stingray,         0,         0,         0,       100,         0,         0,         0,         4,         4
+  elephant,       100,         0,         0,         0,         0,         0,         0,         1,         1
+      clam,         0,         0,         0,         0,         0,        20,        80,         7,         7
+  housefly,         0,         0,         0,         0,         0,       100,         0,         6,         6
+      newt,         0,         0,        40,        20,        40,         0,         0,         5,         3
+      chub,         0,         0,         0,       100,         0,         0,         0,         4,         4
+   termite,         0,         0,         0,         0,         0,        60,        40,         6,         6
+      lion,       100,         0,         0,         0,         0,         0,         0,         1,         1
+   chicken,         0,       100,         0,         0,         0,         0,         0,         2,         2
+  porpoise,        60,         0,         0,        40,         0,         0,         0,         1,         1
+      dove,         0,       100,         0,         0,         0,         0,         0,         2,         2
+   dogfish,         0,         0,         0,       100,         0,         0,         0,         4,         4
+  mongoose,       100,         0,         0,         0,         0,         0,         0,         1,         1
+# Model Accuracy = 0.9047619047619048

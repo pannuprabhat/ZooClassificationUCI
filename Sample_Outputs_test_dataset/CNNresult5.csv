@@ -1,0 +1,24 @@
+# Model Name : CONVOLUTIONAL NEURAL NETWORK
+Animal Name, (1)Mammal,   (2)Bird,(3)Reptile,   (4)Fish,(5)Amphibia,    (6)Bug,(7)Inverteb, Req_Class,Predicted_C
+      hawk,         7,        47,        24,        10,         0,         4,         5,         2,         2
+      frog,        72,        20,         2,         1,         0,         1,         0,         5,         1
+   skimmer,        19,        68,         6,         1,         0,         2,         0,         2,         2
+      vole,        92,         3,         0,         1,         0,         0,         0,         1,         1
+      mole,        92,         3,         0,         1,         0,         0,         0,         1,         1
+  crayfish,         1,         1,         3,        18,         0,        15,        58,         7,         7
+   vampire,        93,         3,         0,         1,         0,         0,         0,         1,         1
+      rhea,         7,        47,        24,        10,         0,         4,         5,         2,         2
+  stingray,         7,        47,        24,        10,         0,         4,         5,         4,         2
+  elephant,        93,         3,         0,         1,         0,         0,         0,         1,         1
+      clam,         1,         1,         3,        18,         0,        15,        58,         7,         7
+  housefly,         4,        14,         9,         4,         0,        53,        11,         6,         6
+      newt,        72,        20,         2,         1,         0,         1,         0,         5,         1
+      chub,         6,         3,         4,        70,         1,         2,        11,         4,         4
+   termite,         4,        14,         9,         4,         0,        53,        11,         6,         6
+      lion,        93,         3,         0,         1,         0,         0,         0,         1,         1
+   chicken,         7,        47,        24,        10,         0,         4,         5,         2,         2
+  porpoise,        72,        20,         2,         1,         0,         1,         0,         1,         1
+      dove,         7,        47,        24,        10,         0,         4,         5,         2,         2
+   dogfish,         7,        47,        24,        10,         0,         4,         5,         4,         2
+  mongoose,        93,         3,         0,         1,         0,         0,         0,         1,         1
+# Model Accuracy = 0.8095238208770752

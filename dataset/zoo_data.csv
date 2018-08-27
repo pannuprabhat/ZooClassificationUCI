@@ -1,0 +1,101 @@
+aardvark,hair,milk,predator,toothed,backbone,breathes,four legs,catsize,one
+antelope,hair,milk,toothed,backbone,breathes,four legs,tail,catsize,one
+bass,eggs,aquatic,predator,toothed,backbone,fins,tail,four
+bear,hair,milk,predator,toothed,backbone,breathes,four legs,catsize,one
+boar,hair,milk,predator,toothed,backbone,breathes,four legs,tail,catsize,one
+buffalo,hair,milk,toothed,backbone,breathes,four legs,tail,catsize,one
+calf,hair,milk,toothed,backbone,breathes,four legs,tail,domestic,catsize,one
+carp,eggs,aquatic,toothed,backbone,fins,tail,domestic,four
+catfish,eggs,aquatic,predator,toothed,backbone,fins,tail,four
+cavy,hair,milk,toothed,backbone,breathes,four legs,domestic,one
+cheetah,hair,milk,predator,toothed,backbone,breathes,four legs,tail,catsize,one
+chicken,feathers,eggs,airborne,backbone,breathes,two legs,tail,domestic,two
+chub,eggs,aquatic,predator,toothed,backbone,fins,tail,four
+clam,eggs,predator,seven
+crab,eggs,aquatic,predator,four legs,seven
+crayfish,eggs,aquatic,predator,six legs,seven
+crow,feathers,eggs,airborne,predator,backbone,breathes,two legs,tail,two
+deer,hair,milk,toothed,backbone,breathes,four legs,tail,catsize,one
+dogfish,eggs,aquatic,predator,toothed,backbone,fins,tail,catsize,four
+dolphin,milk,aquatic,predator,toothed,backbone,breathes,fins,tail,catsize,one
+dove,feathers,eggs,airborne,backbone,breathes,two legs,tail,domestic,two
+duck,feathers,eggs,airborne,aquatic,backbone,breathes,two legs,tail,two
+elephant,hair,milk,toothed,backbone,breathes,four legs,tail,catsize,one
+flamingo,feathers,eggs,airborne,backbone,breathes,two legs,tail,catsize,two
+flea,eggs,breathes,six legs,six
+frog,eggs,aquatic,predator,toothed,backbone,breathes,four legs,five
+frog,eggs,aquatic,predator,toothed,backbone,breathes,venomous,four legs,five
+fruitbat,hair,milk,airborne,toothed,backbone,breathes,two legs,tail,one
+giraffe,hair,milk,toothed,backbone,breathes,four legs,tail,catsize,one
+girl,hair,milk,predator,toothed,backbone,breathes,two legs,domestic,catsize,one
+gnat,eggs,airborne,breathes,six legs,six
+goat,hair,milk,toothed,backbone,breathes,four legs,tail,domestic,catsize,one
+gorilla,hair,milk,toothed,backbone,breathes,two legs,catsize,one
+gull,feathers,eggs,airborne,aquatic,predator,backbone,breathes,two legs,tail,two
+haddock,eggs,aquatic,toothed,backbone,fins,tail,four
+hamster,hair,milk,toothed,backbone,breathes,four legs,tail,domestic,one
+hare,hair,milk,toothed,backbone,breathes,four legs,tail,one
+hawk,feathers,eggs,airborne,predator,backbone,breathes,two legs,tail,two
+herring,eggs,aquatic,predator,toothed,backbone,fins,tail,four
+honeybee,hair,eggs,airborne,breathes,venomous,six legs,domestic,six
+housefly,hair,eggs,airborne,breathes,six legs,six
+kiwi,feathers,eggs,predator,backbone,breathes,two legs,tail,two
+ladybird,eggs,airborne,predator,breathes,six legs,six
+lark,feathers,eggs,airborne,backbone,breathes,two legs,tail,two
+leopard,hair,milk,predator,toothed,backbone,breathes,four legs,tail,catsize,one
+lion,hair,milk,predator,toothed,backbone,breathes,four legs,tail,catsize,one
+lobster,eggs,aquatic,predator,six legs,seven
+lynx,hair,milk,predator,toothed,backbone,breathes,four legs,tail,catsize,one
+mink,hair,milk,aquatic,predator,toothed,backbone,breathes,four legs,tail,catsize,one
+mole,hair,milk,predator,toothed,backbone,breathes,four legs,tail,one
+mongoose,hair,milk,predator,toothed,backbone,breathes,four legs,tail,catsize,one
+moth,hair,eggs,airborne,breathes,six legs,six
+newt,eggs,aquatic,predator,toothed,backbone,breathes,four legs,tail,five
+octopus,eggs,aquatic,predator,eight legs,catsize,seven
+opossum,hair,milk,predator,toothed,backbone,breathes,four legs,tail,one
+oryx,hair,milk,toothed,backbone,breathes,four legs,tail,catsize,one
+ostrich,feathers,eggs,backbone,breathes,two legs,tail,catsize,two
+parakeet,feathers,eggs,airborne,backbone,breathes,two legs,tail,domestic,two
+penguin,feathers,eggs,aquatic,predator,backbone,breathes,two legs,tail,catsize,two
+pheasant,feathers,eggs,airborne,backbone,breathes,two legs,tail,two
+pike,eggs,aquatic,predator,toothed,backbone,fins,tail,catsize,four
+piranha,eggs,aquatic,predator,toothed,backbone,fins,tail,four
+pitviper,eggs,predator,toothed,backbone,breathes,venomous,tail,three
+platypus,hair,eggs,milk,aquatic,predator,backbone,breathes,four legs,tail,catsize,one
+polecat,hair,milk,predator,toothed,backbone,breathes,four legs,tail,catsize,one
+pony,hair,milk,toothed,backbone,breathes,four legs,tail,domestic,catsize,one
+porpoise,milk,aquatic,predator,toothed,backbone,breathes,fins,tail,catsize,one
+puma,hair,milk,predator,toothed,backbone,breathes,four legs,tail,catsize,one
+pussycat,hair,milk,predator,toothed,backbone,breathes,four legs,tail,domestic,catsize,one
+raccoon,hair,milk,predator,toothed,backbone,breathes,four legs,tail,catsize,one
+reindeer,hair,milk,toothed,backbone,breathes,four legs,tail,domestic,catsize,one
+rhea,feathers,eggs,predator,backbone,breathes,two legs,tail,catsize,two
+scorpion,predator,breathes,venomous,eight legs,tail,seven
+seahorse,eggs,aquatic,toothed,backbone,fins,tail,four
+seal,hair,milk,aquatic,predator,toothed,backbone,breathes,fins,catsize,one
+sealion,hair,milk,aquatic,predator,toothed,backbone,breathes,fins,two legs,tail,catsize,one
+seasnake,aquatic,predator,toothed,backbone,venomous,tail,three
+seawasp,eggs,aquatic,predator,venomous,seven
+skimmer,feathers,eggs,airborne,aquatic,predator,backbone,breathes,two legs,tail,two
+skua,feathers,eggs,airborne,aquatic,predator,backbone,breathes,two legs,tail,two
+slowworm,eggs,predator,toothed,backbone,breathes,tail,three
+slug,eggs,breathes,seven
+sole,eggs,aquatic,toothed,backbone,fins,tail,four
+sparrow,feathers,eggs,airborne,backbone,breathes,two legs,tail,two
+squirrel,hair,milk,toothed,backbone,breathes,two legs,tail,one
+starfish,eggs,aquatic,predator,five legs,seven
+stingray,eggs,aquatic,predator,toothed,backbone,venomous,fins,tail,catsize,four
+swan,feathers,eggs,airborne,aquatic,backbone,breathes,two legs,tail,catsize,two
+termite,eggs,breathes,six legs,six
+toad,eggs,aquatic,toothed,backbone,breathes,four legs,five
+tortoise,eggs,backbone,breathes,four legs,tail,catsize,three
+tuatara,eggs,predator,toothed,backbone,breathes,four legs,tail,three
+tuna,eggs,aquatic,predator,toothed,backbone,fins,tail,catsize,four
+vampire,hair,milk,airborne,toothed,backbone,breathes,two legs,tail,one
+vole,hair,milk,toothed,backbone,breathes,four legs,tail,one
+vulture,feathers,eggs,airborne,predator,backbone,breathes,two legs,tail,catsize,two
+wallaby,hair,milk,toothed,backbone,breathes,two legs,tail,catsize,one
+wasp,hair,eggs,airborne,breathes,venomous,six legs,six
+wolf,hair,milk,predator,toothed,backbone,breathes,four legs,tail,catsize,one
+worm,eggs,breathes,seven
+wren,feathers,eggs,airborne,backbone,breathes,two legs,tail,two
